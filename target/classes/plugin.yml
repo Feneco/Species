@@ -1,0 +1,5 @@
+name: Species
+version: '1.0-SNAPSHOT'
+main: xyz.farol.species.Species
+api-version: 1.18
+description: Gui for prefix selection in servers. Aimed at furry servers and comes with an extense species list.
