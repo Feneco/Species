@@ -1,0 +1,9 @@
+# File containing Prefix tree file.
+speciesPath: species.spc
+# This is the command that the console will run when the user completes the command.
+# The following substitutions will take place:
+#  | $1 | Player name     |
+#  | $2 | Selected prefix |
+#  | $3 | Selected color  |
+# This is the most versatile way to set a prefix at the moment.
+commandToRun: "lp user $1 meta setprefix 10\"[$2$3&r]\""

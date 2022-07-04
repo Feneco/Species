@@ -1,0 +1,17 @@
+world/
+world_nether/
+world_the_end/
+logs/
+versions/
+cache/
+libraries/
+
+.console_history
+
+usercache.json
+version_history.json
+banned-ips.json
+banned-players.json
+ops.json
+
+!paper.jar
